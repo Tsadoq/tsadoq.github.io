@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Matteo Villosio</title>
+    <link>https://matteovillosio.me/project/</link>
+      <atom:link href="https://matteovillosio.me/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Matteo Villosio.</copyright><lastBuildDate>Tue, 03 Mar 2020 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Projects</title>
+      <link>https://matteovillosio.me/project/</link>
+    </image>
+    
+    <item>
+      <title>DMO-CPP</title>
+      <link>https://matteovillosio.me/project/dmo-cpp/</link>
+      <pubDate>Tue, 03 Mar 2020 00:00:00 +0100</pubDate>
+      <guid>https://matteovillosio.me/project/dmo-cpp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pylette</title>
+      <link>https://matteovillosio.me/project/pylette/</link>
+      <pubDate>Tue, 03 Mar 2020 00:00:00 +0100</pubDate>
+      <guid>https://matteovillosio.me/project/pylette/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pylette.bot</title>
+      <link>https://matteovillosio.me/project/pylette.bot/</link>
+      <pubDate>Tue, 03 Mar 2020 00:00:00 +0100</pubDate>
+      <guid>https://matteovillosio.me/project/pylette.bot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pylette.bot</title>
+      <link>https://matteovillosio.me/project/summarize.me/</link>
+      <pubDate>Tue, 03 Mar 2020 00:00:00 +0100</pubDate>
+      <guid>https://matteovillosio.me/project/summarize.me/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rec.ap</title>
+      <link>https://matteovillosio.me/project/rec.ap/</link>
+      <pubDate>Tue, 03 Mar 2020 00:00:00 +0100</pubDate>
+      <guid>https://matteovillosio.me/project/rec.ap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rec.ap.discord</title>
+      <link>https://matteovillosio.me/project/rec.ap.discord/</link>
+      <pubDate>Tue, 03 Mar 2020 00:00:00 +0100</pubDate>
+      <guid>https://matteovillosio.me/project/rec.ap.discord/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
